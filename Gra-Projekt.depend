@@ -1,0 +1,634 @@
+# depslib dependency file v1.0
+1559165198 source:g:\dlle\gra-projekt\game.cpp
+	"game.h"
+
+1559165034 g:\dlle\gra-projekt\game.h
+	<windows.h>
+
+1559160766 source:g:\dlle\gra-projekt\jednostka.cpp
+	"jednostka.h"
+
+1559168506 g:\dlle\gra-projekt\jednostka.h
+	"game.h"
+
+1559166030 source:g:\dlle\gra-projekt\gracz.cpp
+	"gracz.h"
+
+1559165848 g:\dlle\gra-projekt\gracz.h
+	"jednostka.h"
+	"weapon.h"
+
+1559165954 g:\dlle\gra-projekt\weapon.h
+	<string>
+
+1559165958 source:g:\dlle\gra-projekt\weapon.cpp
+	"weapon.h"
+
+1559165680 source:g:\dlle\gra-projekt\przeciwnik.cpp
+	"przeciwnik.h"
+
+1559169290 g:\dlle\gra-projekt\przeciwnik.h
+	"jednostka.h"
+
+1559165452 source:g:\dlle\gra-projekt\przedmiot.cpp
+	"przedmiot.h"
+
+1559165448 g:\dlle\gra-projekt\przedmiot.h
+	<string>
+
+1559163524 source:g:\dlle\gra-projekt\pocisk.cpp
+	"pocisk.h"
+
+1559164510 g:\dlle\gra-projekt\pocisk.h
+
+1559169100 source:g:\dlle\gra-projekt\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	"gracz.h"
+	"przeciwnik.h"
+	"game.h"
+	"game.h"
+	"gracz.h"
+	"przeciwnik.h"
+	"przedmiot.h"
+	"pocisk.h"
+
+1560037554 source:c:\codeblocks projekty\gra-projekt\game.cpp
+	"game.h"
+
+1560198644 c:\codeblocks projekty\gra-projekt\game.h
+	<iostream>
+	<windows.h>
+	<string>
+
+1560036586 source:c:\codeblocks projekty\gra-projekt\pocisk.cpp
+	"pocisk.h"
+
+1560036574 c:\codeblocks projekty\gra-projekt\pocisk.h
+	"game.h"
+
+1560199532 source:c:\codeblocks projekty\gra-projekt\przeciwnik.cpp
+	"przeciwnik.h"
+
+1560199502 c:\codeblocks projekty\gra-projekt\przeciwnik.h
+	"pocisk.h"
+	"jednostka.h"
+
+1560026120 c:\codeblocks projekty\gra-projekt\jednostka.h
+	"pocisk.h"
+	"game.h"
+
+1560036664 source:c:\codeblocks projekty\gra-projekt\przedmiot.cpp
+	"przedmiot.h"
+
+1560036676 c:\codeblocks projekty\gra-projekt\przedmiot.h
+	"game.h"
+	<string>
+
+1559573564 source:c:\codeblocks projekty\gra-projekt\weapon.cpp
+	"weapon.h"
+
+1560083970 c:\codeblocks projekty\gra-projekt\weapon.h
+	<string>
+
+1560027204 source:c:\codeblocks projekty\gra-projekt\jednostka.cpp
+	"jednostka.h"
+
+1560372606 source:c:\codeblocks projekty\gra-projekt\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<fstream>
+	"game.h"
+	"gracz.h"
+	"przeciwnik.h"
+	"przedmiot.h"
+	"pocisk.h"
+
+1560039292 c:\codeblocks projekty\gra-projekt\gracz.h
+	"jednostka.h"
+	"weapon.h"
+
+1560039292 source:c:\codeblocks projekty\gra-projekt\gracz.cpp
+	"gracz.h"
+
+1559165198 source:e:\po\gra-projekt\game.cpp
+	"game.h"
+
+1559296596 e:\po\gra-projekt\game.h
+	<iostream>
+	<windows.h>
+
+1559319850 source:e:\po\gra-projekt\gracz.cpp
+	"gracz.h"
+	"pocisk.h"
+
+1559311588 e:\po\gra-projekt\gracz.h
+	"jednostka.h"
+	"weapon.h"
+
+1559319622 e:\po\gra-projekt\jednostka.h
+	"game.h"
+
+1559165954 e:\po\gra-projekt\weapon.h
+	<string>
+
+1559316536 e:\po\gra-projekt\pocisk.h
+	"game.h"
+
+1559319606 source:e:\po\gra-projekt\jednostka.cpp
+	"jednostka.h"
+
+1559319148 source:e:\po\gra-projekt\pocisk.cpp
+	"pocisk.h"
+
+1559316480 source:e:\po\gra-projekt\przeciwnik.cpp
+	"przeciwnik.h"
+
+1559319584 e:\po\gra-projekt\przeciwnik.h
+	"jednostka.h"
+
+1559165452 source:e:\po\gra-projekt\przedmiot.cpp
+	"przedmiot.h"
+
+1559165448 e:\po\gra-projekt\przedmiot.h
+	<string>
+
+1559165958 source:e:\po\gra-projekt\weapon.cpp
+	"weapon.h"
+
+1559165198 source:d:\uz\po\gra-projekt\game.cpp
+	"game.h"
+
+1559296596 d:\uz\po\gra-projekt\game.h
+	<iostream>
+	<windows.h>
+
+1559319850 source:d:\uz\po\gra-projekt\gracz.cpp
+	"gracz.h"
+	"pocisk.h"
+
+1559311588 d:\uz\po\gra-projekt\gracz.h
+	"jednostka.h"
+	"weapon.h"
+
+1559319622 d:\uz\po\gra-projekt\jednostka.h
+	"game.h"
+
+1559165954 d:\uz\po\gra-projekt\weapon.h
+	<string>
+
+1559316536 d:\uz\po\gra-projekt\pocisk.h
+	"game.h"
+
+1559319606 source:d:\uz\po\gra-projekt\jednostka.cpp
+	"jednostka.h"
+
+1559321313 source:d:\uz\po\gra-projekt\pocisk.cpp
+	"pocisk.h"
+
+1559316480 source:d:\uz\po\gra-projekt\przeciwnik.cpp
+	"przeciwnik.h"
+
+1559319584 d:\uz\po\gra-projekt\przeciwnik.h
+	"jednostka.h"
+
+1559165452 source:d:\uz\po\gra-projekt\przedmiot.cpp
+	"przedmiot.h"
+
+1559165448 d:\uz\po\gra-projekt\przedmiot.h
+	<string>
+
+1559165958 source:d:\uz\po\gra-projekt\weapon.cpp
+	"weapon.h"
+
+1559321088 source:d:\uz\po\gra-projekt\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<map>
+	"game.h"
+	"gracz.h"
+	"przeciwnik.h"
+	"przedmiot.h"
+	"pocisk.h"
+
+1559320306 source:e:\po\gra-projekt\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<map>
+	"game.h"
+	"gracz.h"
+	"przeciwnik.h"
+	"przedmiot.h"
+	"pocisk.h"
+
+1559161598 source:d:\po\gra-projekt\game.cpp
+	"game.h"
+
+1559292996 d:\po\gra-projekt\game.h
+	<iostream>
+	<windows.h>
+
+1559282138 source:d:\po\gra-projekt\gracz.cpp
+	"gracz.h"
+	"pocisk.h"
+
+1559215008 d:\po\gra-projekt\gracz.h
+	"jednostka.h"
+	"weapon.h"
+
+1559211954 d:\po\gra-projekt\jednostka.h
+	"game.h"
+
+1559162354 d:\po\gra-projekt\weapon.h
+	<string>
+
+1559291952 d:\po\gra-projekt\pocisk.h
+	"game.h"
+
+1559211988 source:d:\po\gra-projekt\jednostka.cpp
+	"jednostka.h"
+
+1559293022 source:d:\po\gra-projekt\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<map>
+	"game.h"
+	"gracz.h"
+	"przeciwnik.h"
+	"przedmiot.h"
+	"pocisk.h"
+
+1559288464 d:\po\gra-projekt\przeciwnik.h
+	"jednostka.h"
+
+1559161848 d:\po\gra-projekt\przedmiot.h
+	<string>
+
+1559291944 source:d:\po\gra-projekt\pocisk.cpp
+	"pocisk.h"
+
+1559290570 source:d:\po\gra-projekt\przeciwnik.cpp
+	"przeciwnik.h"
+
+1559161852 source:d:\po\gra-projekt\przedmiot.cpp
+	"przedmiot.h"
+
+1559162358 source:d:\po\gra-projekt\weapon.cpp
+	"weapon.h"
+
+1560041153 source:c:\users\user\desktop\gra-projekt\game.cpp
+	"game.h"
+
+1560202242 c:\users\user\desktop\gra-projekt\game.h
+	<iostream>
+	<windows.h>
+	<string>
+
+1560042891 source:c:\users\user\desktop\gra-projekt\gracz.cpp
+	"gracz.h"
+
+1560042891 c:\users\user\desktop\gra-projekt\gracz.h
+	"jednostka.h"
+	"weapon.h"
+
+1560029718 c:\users\user\desktop\gra-projekt\jednostka.h
+	"pocisk.h"
+	"game.h"
+
+1560087568 c:\users\user\desktop\gra-projekt\weapon.h
+	<string>
+
+1560040173 c:\users\user\desktop\gra-projekt\pocisk.h
+	"game.h"
+
+1560030802 source:c:\users\user\desktop\gra-projekt\jednostka.cpp
+	"jednostka.h"
+
+1560376205 source:c:\users\user\desktop\gra-projekt\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<fstream>
+	"game.h"
+	"gracz.h"
+	"przeciwnik.h"
+	"przedmiot.h"
+	"pocisk.h"
+
+1560203101 c:\users\user\desktop\gra-projekt\przeciwnik.h
+	"pocisk.h"
+	"jednostka.h"
+
+1560040275 c:\users\user\desktop\gra-projekt\przedmiot.h
+	"game.h"
+	<string>
+
+1560040185 source:c:\users\user\desktop\gra-projekt\pocisk.cpp
+	"pocisk.h"
+
+1560203131 source:c:\users\user\desktop\gra-projekt\przeciwnik.cpp
+	"przeciwnik.h"
+
+1560040263 source:c:\users\user\desktop\gra-projekt\przedmiot.cpp
+	"przedmiot.h"
+
+1559577164 source:c:\users\user\desktop\gra-projekt\weapon.cpp
+	"weapon.h"
+
+1560041154 source:g:\gra-projekt\game.cpp
+	"game.h"
+
+1560202244 g:\gra-projekt\game.h
+	<iostream>
+	<windows.h>
+	<string>
+
+1560042892 source:g:\gra-projekt\gracz.cpp
+	"gracz.h"
+
+1560042892 g:\gra-projekt\gracz.h
+	"jednostka.h"
+	"weapon.h"
+
+1560029720 g:\gra-projekt\jednostka.h
+	"pocisk.h"
+	"game.h"
+
+1560087570 g:\gra-projekt\weapon.h
+	<string>
+
+1560030804 source:g:\gra-projekt\jednostka.cpp
+	"jednostka.h"
+
+1560376206 source:g:\gra-projekt\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<fstream>
+	"game.h"
+	"gracz.h"
+	"przeciwnik.h"
+	"przedmiot.h"
+	"pocisk.h"
+
+1560203102 g:\gra-projekt\przeciwnik.h
+	"pocisk.h"
+	"jednostka.h"
+
+1560040174 g:\gra-projekt\pocisk.h
+	"game.h"
+
+1560040276 g:\gra-projekt\przedmiot.h
+	"game.h"
+	<string>
+
+1560040186 source:g:\gra-projekt\pocisk.cpp
+	"pocisk.h"
+
+1560203132 source:g:\gra-projekt\przeciwnik.cpp
+	"przeciwnik.h"
+
+1560040264 source:g:\gra-projekt\przedmiot.cpp
+	"przedmiot.h"
+
+1559577164 source:g:\gra-projekt\weapon.cpp
+	"weapon.h"
+
+1559579246 source:c:\programowanie obiektowe\gra-projekt\game.cpp
+	"game.h"
+
+1559585726 c:\programowanie obiektowe\gra-projekt\game.h
+	<iostream>
+	<windows.h>
+	<string>
+
+1559593130 source:c:\programowanie obiektowe\gra-projekt\gracz.cpp
+	"gracz.h"
+
+1559580722 c:\programowanie obiektowe\gra-projekt\gracz.h
+	"jednostka.h"
+	"weapon.h"
+
+1559631464 c:\programowanie obiektowe\gra-projekt\jednostka.h
+	"pocisk.h"
+	"game.h"
+
+1559573436 c:\programowanie obiektowe\gra-projekt\weapon.h
+	<string>
+
+1559582752 source:c:\programowanie obiektowe\gra-projekt\jednostka.cpp
+	"jednostka.h"
+
+1559631556 source:c:\programowanie obiektowe\gra-projekt\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<fstream>
+	"game.h"
+	"gracz.h"
+	"przeciwnik.h"
+	"przedmiot.h"
+	"pocisk.h"
+
+1559631376 c:\programowanie obiektowe\gra-projekt\przeciwnik.h
+	"pocisk.h"
+	"jednostka.h"
+
+1559631336 c:\programowanie obiektowe\gra-projekt\pocisk.h
+	"game.h"
+
+1559161848 c:\programowanie obiektowe\gra-projekt\przedmiot.h
+	<string>
+
+1559631323 source:c:\programowanie obiektowe\gra-projekt\pocisk.cpp
+	"pocisk.h"
+
+1559631441 source:c:\programowanie obiektowe\gra-projekt\przeciwnik.cpp
+	"przeciwnik.h"
+
+1559161852 source:c:\programowanie obiektowe\gra-projekt\przedmiot.cpp
+	"przedmiot.h"
+
+1559573564 source:c:\programowanie obiektowe\gra-projekt\weapon.cpp
+	"weapon.h"
+
+1559582846 source:e:\po\gra-projektn\game.cpp
+	"game.h"
+
+1559589326 e:\po\gra-projektn\game.h
+	<iostream>
+	<windows.h>
+	<string>
+
+1559596730 source:e:\po\gra-projektn\gracz.cpp
+	"gracz.h"
+
+1559584322 e:\po\gra-projektn\gracz.h
+	"jednostka.h"
+	"weapon.h"
+
+1559635066 e:\po\gra-projektn\jednostka.h
+	"pocisk.h"
+	"game.h"
+
+1559644388 e:\po\gra-projektn\pocisk.h
+	"game.h"
+
+1559577036 e:\po\gra-projektn\weapon.h
+	<string>
+
+1559586352 source:e:\po\gra-projektn\jednostka.cpp
+	"jednostka.h"
+
+1559645216 source:e:\po\gra-projektn\pocisk.cpp
+	"pocisk.h"
+
+1559646052 source:e:\po\gra-projektn\przeciwnik.cpp
+	"przeciwnik.h"
+
+1559645858 e:\po\gra-projektn\przeciwnik.h
+	"pocisk.h"
+	"jednostka.h"
+
+1559165452 source:e:\po\gra-projektn\przedmiot.cpp
+	"przedmiot.h"
+
+1559165448 e:\po\gra-projektn\przedmiot.h
+	<string>
+
+1559577164 source:e:\po\gra-projektn\weapon.cpp
+	"weapon.h"
+
+1559646028 source:e:\po\gra-projektn\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<fstream>
+	"game.h"
+	"gracz.h"
+	"przeciwnik.h"
+	"przedmiot.h"
+	"pocisk.h"
+
+1559753085 source:c:\users\user\desktop\gra-projektn\game.cpp
+	"game.h"
+
+1559754170 c:\users\user\desktop\gra-projektn\game.h
+	<iostream>
+	<windows.h>
+	<string>
+
+1559759688 source:c:\users\user\desktop\gra-projektn\gracz.cpp
+	"gracz.h"
+
+1559755498 c:\users\user\desktop\gra-projektn\gracz.h
+	"jednostka.h"
+	"weapon.h"
+
+1559753128 c:\users\user\desktop\gra-projektn\jednostka.h
+	"pocisk.h"
+	"game.h"
+
+1559750490 c:\users\user\desktop\gra-projektn\pocisk.h
+	"game.h"
+
+1559577036 c:\users\user\desktop\gra-projektn\weapon.h
+	<string>
+
+1559753145 source:c:\users\user\desktop\gra-projektn\jednostka.cpp
+	"jednostka.h"
+
+1559760163 source:c:\users\user\desktop\gra-projektn\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<fstream>
+	"game.h"
+	"gracz.h"
+	"przeciwnik.h"
+	"przedmiot.h"
+	"pocisk.h"
+
+1559752189 c:\users\user\desktop\gra-projektn\przeciwnik.h
+	"pocisk.h"
+	"jednostka.h"
+
+1559754358 c:\users\user\desktop\gra-projektn\przedmiot.h
+	"game.h"
+	<string>
+
+1559751656 source:c:\users\user\desktop\gra-projektn\pocisk.cpp
+	"pocisk.h"
+
+1559750460 source:c:\users\user\desktop\gra-projektn\przeciwnik.cpp
+	"przeciwnik.h"
+
+1559754355 source:c:\users\user\desktop\gra-projektn\przedmiot.cpp
+	"przedmiot.h"
+
+1559577164 source:c:\users\user\desktop\gra-projektn\weapon.cpp
+	"weapon.h"
+
+1559749486 source:d:\gra-projekt\game.cpp
+	"game.h"
+
+1559750572 d:\gra-projekt\game.h
+	<iostream>
+	<windows.h>
+	<string>
+
+1559821450 source:d:\gra-projekt\gracz.cpp
+	"gracz.h"
+
+1559821420 d:\gra-projekt\gracz.h
+	"jednostka.h"
+	"weapon.h"
+
+1559749530 d:\gra-projekt\jednostka.h
+	"pocisk.h"
+	"game.h"
+
+1559746892 d:\gra-projekt\pocisk.h
+	"game.h"
+
+1559573436 d:\gra-projekt\weapon.h
+	<string>
+
+1559821846 source:d:\gra-projekt\jednostka.cpp
+	"jednostka.h"
+
+1559748058 source:d:\gra-projekt\pocisk.cpp
+	"pocisk.h"
+
+1559820258 source:d:\gra-projekt\przeciwnik.cpp
+	"przeciwnik.h"
+
+1559815328 d:\gra-projekt\przeciwnik.h
+	"pocisk.h"
+	"jednostka.h"
+
+1559750756 source:d:\gra-projekt\przedmiot.cpp
+	"przedmiot.h"
+
+1559750760 d:\gra-projekt\przedmiot.h
+	"game.h"
+	<string>
+
+1559573564 source:d:\gra-projekt\weapon.cpp
+	"weapon.h"
+
